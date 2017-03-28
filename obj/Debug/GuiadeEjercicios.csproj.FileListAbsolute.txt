@@ -1,0 +1,6 @@
+C:\Users\usario\Documents\UTN\Pruebas c#\LaboratorioGuiadeEjercicios\GuiadeEjercicios\bin\Debug\GuiadeEjercicios.exe.config
+C:\Users\usario\Documents\UTN\Pruebas c#\LaboratorioGuiadeEjercicios\GuiadeEjercicios\obj\Debug\GuiadeEjercicios.csprojResolveAssemblyReference.cache
+C:\Users\usario\Documents\UTN\Pruebas c#\LaboratorioGuiadeEjercicios\GuiadeEjercicios\bin\Debug\GuiadeEjercicios.exe
+C:\Users\usario\Documents\UTN\Pruebas c#\LaboratorioGuiadeEjercicios\GuiadeEjercicios\bin\Debug\GuiadeEjercicios.pdb
+C:\Users\usario\Documents\UTN\Pruebas c#\LaboratorioGuiadeEjercicios\GuiadeEjercicios\obj\Debug\GuiadeEjercicios.exe
+C:\Users\usario\Documents\UTN\Pruebas c#\LaboratorioGuiadeEjercicios\GuiadeEjercicios\obj\Debug\GuiadeEjercicios.pdb
